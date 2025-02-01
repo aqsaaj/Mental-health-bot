@@ -16,7 +16,7 @@ Python: Programming language
 Python: Ensure Python is installed on your system.
 Code: Save the Python code (provided in the previous responses) as a .py file (e.g., chatbot.py).
 Run: Open a terminal or command prompt, navigate to the directory where you saved the file, and run the chatbot using python chatbot.py.
-Contribution Summary:
+## Contribution Summary:
 
 This project is a basic implementation for educational purposes. Contributions could include:
 
