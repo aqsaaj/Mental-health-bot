@@ -26,3 +26,5 @@ Improved Conversation Memory: Implementing a more sophisticated way to track and
 External Knowledge Integration: Connecting to external resources to provide more information.
 User Interface: Creating a graphical user interface (GUI) for a better user experience.
 Ethical Considerations: Adding safeguards and disclaimers to emphasize the chatbot's limitations and encourage professional help.
+
+video link: https://drive.google.com/file/d/1MZoAAbHwnWswwVpmhKVNYVW-YjmD9XUe/view?usp=drivesdk
