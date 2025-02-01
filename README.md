@@ -1,16 +1,17 @@
 # Mental-health-bot
-# Mental Health Chatbot (Simplified Example)
+## Mental Health Chatbot (Simplified Example)
 ## Project Title: Simple Mental Health Chatbot
 
-- Problem Statement:  To create a basic chatbot that can offer a sense of connection and encourage self-reflection for users who may be experiencing mild emotional distress or simply want someone to talk to.  This is not a replacement for professional help.
+## Problem Statement:  To create a basic chatbot that can offer a sense of connection and encourage self-reflection for users who may be experiencing mild emotional distress or simply want someone to talk to.  This is not a replacement for professional help.
 
-Solution Overview: A Python-based chatbot that uses keyword matching and limited conversation memory to provide simple, supportive responses.  It reflects on recent user inputs to encourage further discussion.
+## Solution Overview: A Python-based chatbot that uses keyword matching and limited conversation memory to provide simple, supportive responses.  It reflects on recent user inputs to encourage further discussion.
 
-Tech Stack:
+## Tech Stack:
 
 Python: Programming language
 (Potentially) Libraries: random (built-in), sentiment analysis libraries (e.g., VADER, TextBlob) could be added for enhanced functionality.
-Setup and Installation Instructions:
+
+## Setup and Installation Instructions:
 
 Python: Ensure Python is installed on your system.
 Code: Save the Python code (provided in the previous responses) as a .py file (e.g., chatbot.py).
